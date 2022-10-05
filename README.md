@@ -2,12 +2,26 @@
 
 Меня зовут Владимир, занимаюсь андроид разработкой
 
-### Стек
-- Kotlin, Java
-- Room, SQLite, SQL
-- MVVM
-- ООП
-- Git, Github
+📫 LyubimovVladimirAn@gmail.com
+
+---
+### Мои навыки
+✔️ Kotlin, Java
+
+✔️ Room, SQLite
+
+✔️ MVVM
+
+✔️ ООП
+
+✔️ Git, Github
+
+✔️ Firebase Cloud Messaging (FCM)
+
+---
+### Примеры работ
+- [Дипломная работа. Книга рецептов](https://github.com/Dzot1k/neRecipe "NeRecipe")
+- [Приложение "Измеритель качества электроэнергии"](https://github.com/Dzot1k/energyRepo "Измеритель качества электроэнергии")
 
 <!--
 **Dzot1k/Dzot1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
