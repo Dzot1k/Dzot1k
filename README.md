@@ -6,17 +6,12 @@
 
 ---
 ### Мои навыки
-✔️ Kotlin, Java
-
-✔️ Room, SQLite
-
-✔️ MVVM
-
-✔️ ООП
-
-✔️ Git, Github
-
-✔️ Firebase Cloud Messaging (FCM)
+* Kotlin, Java
+* Room, SQLite
+* MVVM
+* ООП
+* Git, Github
+* Firebase Cloud Messaging (FCM)
 
 ---
 ### Примеры работ
