@@ -16,7 +16,7 @@
 ---
 ### Примеры работ
 - [Дипломная работа. Книга рецептов](https://github.com/Dzot1k/neRecipe "NeRecipe")
-- [Приложение "Анализ качества электроэнергии"](https://github.com/Dzot1k/energyRepo "Анализ качества электроэнергии")
+- [Приложение "Анализ качества электроэнергии"](https://github.com/Dzot1k/energy "Анализ качества электроэнергии")
 
 <!--
 **Dzot1k/Dzot1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
