@@ -16,7 +16,7 @@
 
 ---
 ### Примеры работ
-- [Дипломная работа. Книга рецептов](https://github.com/Dzot1k/neRecipe "NeRecipe")
+- [Дипломная работа. Книга рецептов](https://github.com/LyubimoVV/neRecipe "NeRecipe")
 - [Приложение "Анализ качества электроэнергии"](https://github.com/LyubimoVV/energyRepo "Анализ качества энергоснабжения")
 
 <!--
