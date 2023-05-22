@@ -9,6 +9,7 @@
 * Kotlin, Java
 * Room, SQLite
 * MVVM
+* Okhttp, retrofit
 * ООП
 * Git, Github
 * Firebase Cloud Messaging (FCM)
